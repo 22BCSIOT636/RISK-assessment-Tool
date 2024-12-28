@@ -1,2 +1,26 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jMgR4AG6)
-[![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-8824cc13a1a3f34ffcd245c82f0ae96fdae6b7d554b6539aec3a03a70825519c.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17601970&assignment_repo_type=AssignmentRepo)
+# Risk Assessment Tool
+
+A predictive analytics tool using machine learning to calculate risk scores for loans and policies.
+
+## Features
+- **Risk Scoring:** Provides objective risk evaluations.
+- **Reduced Errors:** Minimizes human judgment errors.
+- **Faster Approvals:** Streamlines decision-making processes.
+- **Enhanced Accuracy:** Uses historical data for reliable predictions.
+
+## Project Structure
+- `frontend/`: Contains the web interface files.
+- `backend/`: Contains the Flask API for backend logic.
+- `model/`: Placeholder for ML model files.
+
+## How to Run
+1. Clone the repository.
+2. Navigate to the `backend` folder.
+3. Install dependencies: `pip install flask tensorflow numpy`.
+4. Start the backend: `python app.py`.
+5. Open `frontend/index.html` in a browser.
+
+## Future Enhancements
+- Integrate with a real ML model.
+- Use a database for persistent data storage.
+- Add authentication and user management.
